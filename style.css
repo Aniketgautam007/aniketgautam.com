@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+  text-align: center;
+}
+ .logo{
+  position: absolute;
+  left: 640px;
+  bottom: 250px;
+  width: 340px;
+} 
+.shooter{
+  position: absolute;
+  right: 700px;
+  bottom: 20px;
+  width: 300px;
+  
+}
+.top{
+  background-color: #226871;
+  border-bottom: 8px solid aqua;
+  position: relative;
+  width: 100%;
+  color: #00FFD7;
+  height: 450px;
+  padding-top: 80px;
+}
+.h1 {
+  padding: 50px;
+  font-family: cursive;
+  font-size: 5.265rem;
+}
+.p {
+  font-family: cursive;
+  font-size: 2.5rem;
+  padding-top: 35px;
+}
+.h2{
+  padding-top:80px;
+  font-family: cursive;
+  color: #0FA5A5;
+  font-size: 6rem;
+}
+.head {
+  margin-right: 290px;
+  padding-top: 50px;
+  font-family: cursive;
+  font-size: 30px;
+  color: #068BA5;
+}
+.skillspara {
+ width: 25%;
+ padding-top: 20px;
+ margin-left: 300px;
+}
+.imageforskill1 {
+  border-right: 145px;
+  border-radius: 100px;
+  margin-right: 200px;
+  float: right;
+  width: 15%;
+}
+.p2 {
+  padding-top: 20px;
+  width: 20%;
+  margin: auto;
+}
+.imageforskill2 {
+  border-left: 145px;
+  border-radius: 100px;
+  margin-left: 200px;
+  float: left;
+  width: 20%;
+}
+.skillspara2 {
+ width: 25%;
+ padding-top: 20px;
+ margin-left: 400px;
+}
+.head2 {
+  margin-left: 200px;
+  padding-top: 50px;
+  font-family: cursive;
+  font-size: 30px;
+  color: #068BA5;
+}
+.outro1 {
+  padding: 40px;
+  font-family: 'Sacramento', cursive;
+  color: #0893AC
+}
+.outro2 {
+  width: 25%;
+  margin: auto;
+}
+.button {
+ padding: 10px;
+ background-color: #09FFE7; 
+ border-radius: 100px;
+ color: #000;
+ font-family: cursive;
+ font-size: 35px;
+}
+.container {
+  margin-top: 50px;
+  text-decoration: none;
+  border-top: 12px solid #ADF4FF85;
+  padding: 80px;
+  font-size: 2rem;
+  color: white;
+  background-color: #226871;
+}
+a {
+  text-decoration: none;
+  font-weight: normal;
+  color: #97C1C8;
+}
+.imageforskill3 {
+  border-right: 145px;
+  border-radius: 100px;
+  margin-right: 200px;
+  float: right;
+}
